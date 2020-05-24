@@ -11,3 +11,5 @@ including regular expressions (searching for text), cleaning text, and preparing
 The third week will apply basic natural language processing methods to text,
 and demonstrate how text classification is accomplished.
 The final week will explore more advanced methods for detecting the topics in documents and grouping them by similarity (topic modelling).
+
+https://www.coursera.org/learn/python-text-mining
