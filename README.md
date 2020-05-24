@@ -1,4 +1,4 @@
-# patronlargibi-Coursera_Applied_Text_Mining_in_Python
+# Coursera_Applied_Text_Mining_in_Python
 
 University of Michigan on Coursera
 
